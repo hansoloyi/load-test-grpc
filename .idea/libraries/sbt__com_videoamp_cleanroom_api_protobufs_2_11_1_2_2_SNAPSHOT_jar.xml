@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.videoamp:cleanroom-api-protobufs_2.11:1.2.2-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.videoamp/cleanroom-api-protobufs_2.11/1.2.2-SNAPSHOT/jars/cleanroom-api-protobufs_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.videoamp/cleanroom-api-protobufs_2.11/1.2.2-SNAPSHOT/docs/cleanroom-api-protobufs_2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.videoamp/cleanroom-api-protobufs_2.11/1.2.2-SNAPSHOT/srcs/cleanroom-api-protobufs_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

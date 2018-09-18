@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: grpc-netty-shaded
+Target-Compatibility: 1.6
+Implementation-Version: 1.9.1
+Built-By: root
+Source-Compatibility: 1.6
+Class-Path: grpc-core-1.9.1.jar grpc-context-1.9.1.jar instrumentation
+ -api-0.4.3.jar opencensus-contrib-grpc-metrics-0.10.0.jar opencensus-
+ api-0.10.0.jar guava-19.0.jar error_prone_annotations-2.1.2.jar jsr30
+ 5-3.0.0.jar
+Built-JDK: 1.8.0_131
+

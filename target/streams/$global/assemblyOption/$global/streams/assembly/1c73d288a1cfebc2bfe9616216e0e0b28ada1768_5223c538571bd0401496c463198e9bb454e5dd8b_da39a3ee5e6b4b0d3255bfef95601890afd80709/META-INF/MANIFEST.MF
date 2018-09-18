@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: cleanroom-api-protobufs
+Implementation-Version: 1.1.9-SNAPSHOT
+Specification-Vendor: com.videoamp
+Specification-Title: cleanroom-api-protobufs
+Implementation-Vendor-Id: com.videoamp
+Specification-Version: 1.1.9-SNAPSHOT
+Implementation-Vendor: com.videoamp
+
